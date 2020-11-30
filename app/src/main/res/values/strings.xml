@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HMSTest</string>
+    <string name="notification_channel_name_notify">Напоминание</string>
+</resources>
